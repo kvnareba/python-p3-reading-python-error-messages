@@ -1,3 +1,2 @@
-#!/usr/bin/env python3
-
-wrong_type = 'abc' + 123
+#!/usr/bin/e
+wrong_type = 'abc' + str(123)
